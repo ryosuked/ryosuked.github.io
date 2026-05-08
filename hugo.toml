@@ -1,0 +1,6 @@
+baseURL = 'https://ryosuked.github.io/'
+languageCode = 'ja-jp'
+title = "ryosuked's Hugo Site"
+
+[params]
+  description = "My GitHub Pages site built with Hugo"
